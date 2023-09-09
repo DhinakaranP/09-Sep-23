@@ -8,11 +8,19 @@ private void add() {
 
 }
 
+private void sub() {
+	
+	System.out.println("Subtraction");
+
+}
+
+
 	public static void main(String[] args) {
 		
 	Git_Practice obj=new Git_Practice();
 	
 	obj.add();
+	obj.sub();
 }
 	
 }
