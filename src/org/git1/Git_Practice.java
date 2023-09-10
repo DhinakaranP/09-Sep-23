@@ -4,7 +4,7 @@ public class Git_Practice {
 	
 private void add() {
 	
-	System.out.println("add");
+	System.out.println("add1");
 
 }
 
